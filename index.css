@@ -2,6 +2,14 @@
   margin: 0;
 }
 
+* {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 64px;
+}
+
 img {
   border-radius: 16px;
 }

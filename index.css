@@ -12,6 +12,10 @@ h1 {
   font-weight: bold;
 }
 
+body {
+  background-color: red;
+}
+
 img {
   border-radius: 16px;
 }
